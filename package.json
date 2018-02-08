@@ -1,0 +1,19 @@
+{
+  "name": "vue-equery",
+  "version": "1.1.0",
+  "description": "a vue selector plugin",
+  "main": "vue-equery.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackandgray/vue-equery.git"
+  },
+  "author": "lxy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blackandgray/vue-equery/issues"
+  },
+  "homepage": "https://github.com/blackandgray/vue-equery#readme"
+}

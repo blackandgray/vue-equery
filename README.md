@@ -6,5 +6,7 @@
 用法：
 
 vue.$ele('#id')
+
 vue.$ele('.classname')
+
 vue.$ele('tagname')
