@@ -12,6 +12,7 @@ cnpm install vue-equery --save
 main.js:
 
 import Vue from 'vue'
+
 import equery from 'vue-equery'
 
 Vue.use(equery)
