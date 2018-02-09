@@ -1,10 +1,13 @@
 # vue-equery
-测试：vue选择器插件
+A vue selector plugin
 
 ================================
 
-使用方法：
+npm：
 npm install vue-equery --save
+
+cnpm：
+cnpm install vue-equery --save
 
 ================================
 
